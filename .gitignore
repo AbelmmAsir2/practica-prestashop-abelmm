@@ -1,0 +1,4 @@
+.vagrant/
+*.pem
+*.key
+diagnostico-provision.txt
